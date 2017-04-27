@@ -1,1 +1,1 @@
-include  ':quickCache'
+include ':app', ':quickCache'
